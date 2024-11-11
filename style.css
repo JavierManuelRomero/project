@@ -1,0 +1,17 @@
+*
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+pic{
+    width: 10rem;
+    height: 10rem;
+    object-fit: contain;
+
+}
+
+.container{flex-direction: center;
+    justify-content: center;
+}
